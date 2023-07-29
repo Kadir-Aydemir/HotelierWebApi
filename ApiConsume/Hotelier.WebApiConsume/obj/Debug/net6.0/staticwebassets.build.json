@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m/kQKIO7x1QSSSaKEqe5g89FaRgUI5PreHK0XW3H17I=",
+  "Source": "Hotelier.WebApiConsume",
+  "BasePath": "_content/Hotelier.WebApiConsume",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
