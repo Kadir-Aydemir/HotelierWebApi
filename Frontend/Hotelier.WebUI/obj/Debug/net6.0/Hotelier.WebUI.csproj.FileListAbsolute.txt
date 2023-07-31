@@ -242,3 +242,7 @@ D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\AutoMapper.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Hotelier.EntityLayer.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Hotelier.EntityLayer.pdb

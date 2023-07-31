@@ -30,7 +30,7 @@ namespace Hotelier.WebApiConsume.Controllers
             return Ok();
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteSubscribe(int id)
         {
             var subscribe = _subscribeService.TGetByID(id);

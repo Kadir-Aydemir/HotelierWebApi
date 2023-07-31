@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ht0xDWBoR6Qd5KanOOvKKIOECBxUGdYXP2FyC6l8ZlqeiIi0yffLkHuBmiVyCf/lsWbvrtSg36p/rVteJBjXfA==",
+  "dgSpecHash": "L99kEgJxmYx0V4KQQ7vz3gJJ5F7Mxt3SSbpmdBk9BtrX+S6TZApM8fqMMwntHl5XoKeOd2ZehxIV3DZV7UliKw==",
   "success": true,
   "projectFilePath": "D:\\C# Project\\ASP.NET Core Api\\HotelierWebApi\\ApiConsume\\Hotelier.WebApiConsume\\Hotelier.WebApiConsume.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\msı\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\msı\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\msı\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\msı\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\msı\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\msı\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\msı\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\msı\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",

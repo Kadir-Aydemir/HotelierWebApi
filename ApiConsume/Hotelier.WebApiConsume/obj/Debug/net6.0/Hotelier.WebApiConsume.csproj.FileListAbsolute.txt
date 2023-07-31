@@ -69,3 +69,5 @@ D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\obj\Debug\net6.0\Hotelier.WebApiConsume.pdb
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\obj\Debug\net6.0\Hotelier.WebApiConsume.genruntimeconfig.cache
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\obj\Debug\net6.0\ref\Hotelier.WebApiConsume.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\AutoMapper.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
