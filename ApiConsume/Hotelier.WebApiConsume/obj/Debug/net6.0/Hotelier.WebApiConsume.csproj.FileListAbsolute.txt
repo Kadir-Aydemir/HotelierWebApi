@@ -71,3 +71,8 @@ D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\obj\Debug\net6.0\ref\Hotelier.WebApiConsume.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\AutoMapper.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\ApiConsume\Hotelier.WebApiConsume\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

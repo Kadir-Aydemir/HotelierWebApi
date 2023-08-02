@@ -246,3 +246,10 @@ D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Hotelier.EntityLayer.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Hotelier.EntityLayer.pdb
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Hotelier.DataAccessLayer.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Hotelier.DataAccessLayer.pdb
