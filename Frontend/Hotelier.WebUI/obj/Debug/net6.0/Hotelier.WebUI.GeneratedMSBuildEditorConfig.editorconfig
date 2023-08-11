@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/AboutAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRBZG1pblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/AboutAdmin/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRBZG1pblxVcGRhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/AdminLayout/HeadPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSGVhZFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -55,6 +63,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxfU3Vic2NyaWJlUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/Guest/AddGuest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcQWRkR3Vlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/Guest/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/Guest/UpdateGuest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3Vlc3RcVXBkYXRlR3Vlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -69,6 +89,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/RoomAdmin/AddRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbUFkbWluXEFkZFJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/RoomAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/RoomAdmin/UpdateRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbUFkbWluXFVwZGF0ZVJvb20uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/Service/AddService.cshtml]

@@ -38,7 +38,7 @@ namespace Hotelier.WebApiConsume.Controllers
             return Ok();
         }
 
-        [HttpPut("UpdateGuest")]
+        [HttpPut]
         public IActionResult UpdateGuest(Guest guest)
         {
             _guestService.TUpdate(guest);
