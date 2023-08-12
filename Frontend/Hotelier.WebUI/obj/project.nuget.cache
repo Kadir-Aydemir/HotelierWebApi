@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "1JuNyqFn1CgGrugX8IcMH+PooBT4JrkanCaYSHOZ1pp6AKtedkIk0fG4rwkmgtEs3Q4YCduuXXHH2l49h+PAQw==",
+  "dgSpecHash": "kYLlFXEuAU6xn6wVW7p0CmG50fce1zu13WaISUvBXB3NDF4EuGpTHGj981kdyscLdwTMN7mk7YVGhZrtEViHTA==",
   "success": true,
   "projectFilePath": "D:\\C# Project\\ASP.NET Core Api\\HotelierWebApi\\Frontend\\Hotelier.WebUI\\Hotelier.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\msı\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\msı\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\msı\\.nuget\\packages\\fluentvalidation\\11.7.0\\fluentvalidation.11.7.0.nupkg.sha512",
+    "C:\\Users\\msı\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\msı\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.0\\fluentvalidation.dependencyinjectionextensions.11.7.0.nupkg.sha512",
     "C:\\Users\\msı\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\msı\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\msı\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

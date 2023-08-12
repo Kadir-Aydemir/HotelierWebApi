@@ -6,10 +6,16 @@
 
 <form method="post">
     <input type="hidden" asp-for="GuestID"/>
+   
     <input type="text" asp-for="Name" class="form-control mb-2" placeholder="Adı"/>
-    <input type="text" asp-for="Surname" class="form-control mb-2" placeholder="Soyadı"/>
-    <input type="text" asp-for="City" class="form-control mb-2" placeholder="Şehir"/>
+    <span asp-validation-for="Name" class="text-danger"></span>
 
+    <input type="text" asp-for="Surname" class="form-control mb-2" placeholder="Soyadı"/>
+    <span asp-validation-for="Surname" class="text-danger"></span>
+
+    <input type="text" asp-for="City" class="form-control mb-2" placeholder="Şehir"/>
+    <span asp-validation-for="City" class="text-danger"></span>
+    <br />
     <button class="btn btn-primary btn-rounded">Güncelle</button>
 </form>
 

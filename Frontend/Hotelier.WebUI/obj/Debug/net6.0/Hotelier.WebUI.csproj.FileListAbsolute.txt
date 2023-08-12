@@ -253,3 +253,7 @@ D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Hotelier.DataAccessLayer.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\Hotelier.DataAccessLayer.pdb
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\FluentValidation.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\obj\Debug\net6.0\Hotelier.WebUI.MvcApplicationPartsAssemblyInfo.cs
