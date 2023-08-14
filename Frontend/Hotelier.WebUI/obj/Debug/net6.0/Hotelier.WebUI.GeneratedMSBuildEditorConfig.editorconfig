@@ -47,6 +47,34 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xfQWRkQm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/ContactAdmin/AddSendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEFkbWluXEFkZFNlbmRNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/ContactAdmin/Inbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEFkbWluXEluYm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/ContactAdmin/InboxMessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEFkbWluXEluYm94TWVzc2FnZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/ContactAdmin/Sendbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEFkbWluXFNlbmRib3guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/ContactAdmin/SendboxMessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEFkbWluXFNlbmRib3hNZXNzYWdlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/ContactAdmin/SideBarContactAdminCategoryPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEFkbWluXFNpZGVCYXJDb250YWN0QWRtaW5DYXRlZ29yeVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/ContactAdmin/SideBarContactAdminPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEFkbWluXFNpZGVCYXJDb250YWN0QWRtaW5QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/C\# Project/ASP.NET Core Api/HotelierWebApi/Frontend/Hotelier.WebUI/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

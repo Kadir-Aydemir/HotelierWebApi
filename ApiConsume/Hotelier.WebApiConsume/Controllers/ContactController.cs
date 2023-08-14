@@ -39,7 +39,7 @@ namespace Hotelier.WebApiConsume.Controllers
             return Ok();
         }
 
-        [HttpPut("UpdateContact")]
+        [HttpPut]
         public IActionResult UpdateContact(Contact contact)
         {
             _contactService.TUpdate(contact);
