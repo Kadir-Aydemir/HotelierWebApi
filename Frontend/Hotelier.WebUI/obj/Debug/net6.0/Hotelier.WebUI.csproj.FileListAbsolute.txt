@@ -257,3 +257,7 @@ D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\obj\Debug\net6.0\Hotelier.WebUI.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\MailKit.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\MimeKit.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\C# Project\ASP.NET Core Api\HotelierWebApi\Frontend\Hotelier.WebUI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
